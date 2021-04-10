@@ -1,7 +1,7 @@
 # Real-Time-Bus-Tracker
 Working on a way to keep track of buses moving real-time.
 
-<h1>Real Time Bus Tracker</h1>
+<h2>Title: Real Time Bus Tracker</h2>
 
 Description of the project: The project keeps track of data that updates every 15 seconds.
 
